@@ -1,0 +1,43 @@
+body {
+  background-image: linear-gradient(to right, #fefefe 50%, #fcfcfc 50%);
+}
+
+.masthead {
+  background-image: linear-gradient(to bottom right,rgba(220, 130, 254, 0.8), rgba(30, 150, 204, 0.8)), url(https://66.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif) !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.ui.segment {
+  border: none !important;
+}
+
+.ui.launch.button {
+  background: #ccc;
+}
+
+.avatar  {
+  margin: 6em 0 2em; 
+}
+
+.avatar img {
+  margin: 0 auto;
+  width: 20%;
+}
+.about.image {
+  margin-top: 3em;
+}
+#about-section {
+
+}
+
+.image-column {
+  background-image: url(https://jaxenter.com/wp-content/uploads/2015/03/shutterstock_229153669-e1426777005105.jpg);
+}
+
+.footer {
+  text-align: center;
+  font-size: 30px;
+  background-color: red !important;
+  background-image: url(http://dl.glitter-graphics.com/pub/3193/3193621dmdugkhiy7.gif) !important;
+}
